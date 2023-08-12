@@ -10,5 +10,3 @@ class zheng;
 # 0x02. 自主团队
 classzheng拥有一个很弱的自主团队ClassesWorld, 目前仅出现在GITEE码云中: https://www.gitee.com/ClassesWorld  
 主要目标: 更好的编程语言分支 更geek的生产力工具 更酷的普遍软件
-
-![classzheng的设子](classzheng.png)
