@@ -8,9 +8,11 @@ class zheng;
 ```
 所以我叫classzheng.
 # 0x02. 联系方式
-[Github] 诺~
-[Gitee.] www.gitee.com/classzheng
-[E-Mail] classzheng@outlook.com
-[Zhinu-] www.zhihu.com/people/class--33
-[BiliSt] space.bilibili.com/3494356216449563
+```
+[Github] 诺~  
+[Gitee.] www.gitee.com/classzheng  
+[E-Mail] classzheng@outlook.com  
+[Zhinu-] www.zhihu.com/people/class--33  
+[BiliSt] space.bilibili.com/3494356216449563  
+```
 除此外其它社交账号并不活跃, 或是被用于讨论与编程无关的话题₀ 
