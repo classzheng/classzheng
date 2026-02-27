@@ -25,6 +25,5 @@ class zheng;
 # 0x03. 📕学习中...
 机器学习, 不过是~奇技淫巧~罢了。。。
 无聊时学点画画也是好的罢.
-
-<img width="357" height="332" alt="Much more SCP-Contain Breach?" src="https://github.com/user-attachments/assets/6919baae-2901-4833-8d7e-3a8d5c0dde56" />
+<img width="1828" height="1214" alt="Lau-Sinchi" src="https://github.com/user-attachments/assets/28ef0c77-9722-423e-969a-0cf0881ace7a" />
 
